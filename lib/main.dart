@@ -57,6 +57,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
 
+  // Update feature 3
   void _incrementCounter() {
     print('Hello CQ2021');
     setState(() {
